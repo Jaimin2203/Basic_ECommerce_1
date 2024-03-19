@@ -1,6 +1,6 @@
 # MERN E-COMMERCE TUTORIAL
 
-Hi! My name is **Jatin Vaishnav**, I have created this basic mern stack ecommerce project for learning purpose .
+Hi! My name is **Jaymin Chauhan**, I have created this basic mern stack ecommerce project for learning purpose .
 
 # Prerequisite
 
